@@ -1,7 +1,7 @@
 # python-machine_learning - Python Data Science Course
 ## In the "assignment_code1.ipynb" I used a Random Forest Classifier to predict **if** depths from **house owners are paying fees back**, and how likely this is.  
 
-The course was offered by the University of Michigan and hosted on Coursera:
+The course was offered by the University of Michigan and host on Coursera:
 https://www.coursera.org/specializations/data-science-python
 
 # machine learning - scikit learn and bayes classifier on the breast cancer data set from sklearn (code and data in .md below)
