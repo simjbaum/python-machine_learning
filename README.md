@@ -1,17 +1,15 @@
 # python-machine_learning
-Coding of a machine learning approach to predict the probability that fees will be paid or not paid. The prediction was created based on a RandomForestClassifier after cleaning of the data.
+1.) In the "assignment_code1.ipynb" I used a Random Forest Classifier to predict if depths from house owners are paying fees back, and how likely this is.  
+
 The course was offered by the University of Michigan and hosted on Coursera:
 https://www.coursera.org/specializations/data-science-python
 
 
-
-# some exploration on the public available breast cancer data set and trying different classifiers for a prediction of diseased or healthy: 
-
-
+2. ) Breast Cancer data set exploration and testing different classifiers on the data 
 
 # machine learning - scikit learn and bayes classifier on the breast cancer data set from sklearn
 
-## here I compare a naive bayes classifier vs a support vector machine classifier on the public available breast cancer data set from sklearn
+## Next I compare a naive bayes classifier vs a support vector machine classifier on the public available breast cancer data set from sklearn
 
 
 ```python
