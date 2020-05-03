@@ -684,6 +684,10 @@ data.describe()
 
 
 
+```python
+# The data appears to be in a "good" shape and does not require much cleaning
+```
+
 
 ```python
 # split the data into train and test data 
