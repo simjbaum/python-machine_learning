@@ -1,4 +1,18 @@
-# machine learning - scikit learn and bayes classifier on the breast cancer data set from sklearn
+# first part: python-machine_learning - Python Data Science Course
+### In the "assignment_code1.ipynb" I used a Random Forest Classifier to predict **if** depths from **house owners are paying fees back**, and how likely this is.  
+
+The course was offered by the University of Michigan and host on Coursera:
+https://www.coursera.org/specializations/data-science-python
+
+# second part machine learning - scikit learn and bayes classifier on the breast cancer data set from sklearn (code and data in this md-document below)
+
+### **Breast Cancer data set exploration and testing different classifiers on the data** - **Course independent exploration**
+
+### Take home messages: 
+#### 1.)  'worst concavity', 'worst symmetry' and 'mean concavity' seem to be good predictors whereas 'mean radius', 'texture error' and 'compactness error' are not good indicators for our model to predict if it is breast cancer or not
+#### 2.) By measuring the F1 score (https://en.wikipedia.org/wiki/F1_score) -  SVC with the linear classification works best for the prediction in this data set compared to a Naiv Bayes binary classifier and the SVC Radial Basis Function
+
+## part two machine learning - scikit learn and bayes classifier on the breast cancer data set from sklearn
 
 ## here I compare a naive bayes classifier vs a support vector machine classifier on the public available breast cancer data set from sklearn
 
