@@ -9,10 +9,10 @@ https://www.coursera.org/specializations/data-science-python
 ### The aim is to compare models to predict Breast Cancer cases, explore the models and find the best feature which describe best breast cancer cases in my build models 
 
 ### Abstract and take home messages of my analysis (shown below): 
-#### 1.)  'worst concavity', 'worst symmetry' and 'mean concavity' seem to be good predictors whereas 'mean radius', 'texture error' and 'compactness error' are not good indicators for our model to predict if it is breast cancer or not
-#### 2.) By measuring the F1 score (https://en.wikipedia.org/wiki/F1_score) -  SVC with the linear classification works best for the prediction in this data set compared to a Naiv Bayes binary classifier and the SVC Radial Basis Function
+#### 1.)  'worst concavity', 'worst symmetry' and 'mean concavity' are good predictors to distinguish between breast cancer cases and negative cases, whereas 'mean radius', 'texture error' and 'compactness error' are no good features for my final model 
+#### 2.) By measuring the F1 score (https://en.wikipedia.org/wiki/F1_score) -  SVC with the linear classification works best for the prediction of breast cancer cases in this data set compared to a Naiv Bayes binary classifier and the SVC Radial Basis Function
 
-## part two machine learning - scikit learn and bayes classifier on the breast cancer data set from sklearn
+## scikit learn and bayes classifier on the breast cancer data set from sklearn
 
 ## here I compare a naive bayes classifier vs a support vector machine classifier on the public available breast cancer data set from sklearn
 
